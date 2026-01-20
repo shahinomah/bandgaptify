@@ -1,6 +1,6 @@
-Calculation of Optical Energy Bandgap with Tauc Plot with Python-based Application
+Calculation of Optical Energy Bandgap with Tauc Plot using Python-based Application
 
-UV-Vis data: PVDF polymer
+UV-Vis data: P(VDF)-TrFE polymer (https://link.springer.com/article/10.1007/s10854-017-7005-4)
 
 
 
