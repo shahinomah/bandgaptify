@@ -68,6 +68,6 @@ The result is as follow:
 Or you can save the data if you want to do it manually: (Save Data to CSV button - botton left)
 
 
-Note: if have your onw UV-Vis data, please make sure the firs row is "Wavelength (nm),	Absorbance". 
+Note: if have your own UV-Vis data, please make sure the first row is "Wavelength (nm),	Absorbance". 
 Column A is for Wavelength, while Column B is for Absorbance. Both in the first row.
 Your onw data started from the second row (for both) to the bottom.
