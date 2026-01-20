@@ -71,3 +71,6 @@ Or you can save the data if you want to do it manually: (Save Data to CSV button
 Note: if have your own UV-Vis data, please make sure the first row is "Wavelength (nm),	Absorbance". 
 Column A is for Wavelength, while Column B is for Absorbance. Both in the first row.
 Your onw data started from the second row (for both) to the bottom.
+
+Reference: 
+https://oarep.usim.edu.my/server/api/core/bitstreams/f29145dc-5176-4dad-943b-5a1451ae8c7d/content
